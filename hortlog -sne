@@ -1,0 +1,55 @@
+[33mcommit fd52e56bcf651bb0486c0e202934ecc643315756[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aradhya2003 <tehariaaradhya@gmail.com>
+Date:   Wed Mar 20 05:10:48 2024 +0530
+
+    Initial commit
+
+[33mcommit 61277e1d9da00e10177e68a0b5f0e11c0b7c8576[m
+Author: aradhya2003 <83398496+aradhya2003@users.noreply.github.com>
+Date:   Wed Mar 20 04:49:03 2024 +0530
+
+    Initial commit
+
+[33mcommit 1f776ae3cc7d3fa7fb0f761c3b382841354052f1[m
+Author: aradhya2003 <83398496+aradhya2003@users.noreply.github.com>
+Date:   Wed Mar 20 04:26:53 2024 +0530
+
+    Revert "Constructed a computer vision Android app that converts a picture of medication into speech form of medicine directions and information in 2 seconds"
+    
+    This reverts commit 9eab5fb9e4e56257bfc743fff5d970f5470b9704.
+
+[33mcommit 9eab5fb9e4e56257bfc743fff5d970f5470b9704[m
+Author: aradhya2003 <83398496+aradhya2003@users.noreply.github.com>
+Date:   Wed Mar 20 04:20:49 2024 +0530
+
+    Constructed a computer vision Android app that converts a picture of medication into speech form of medicine directions and information in 2 seconds
+
+[33mcommit 3c65b078c3bcb714be5447ff6aad7cd49da0790d[m
+Author: SACHIN BHOLA <43703271+Sachinbhola@users.noreply.github.com>
+Date:   Mon May 17 12:51:27 2021 +0530
+
+    Update README.md
+
+[33mcommit e923e6f4dc1e54316dbd0a5eaa167ee53cc7c6a7[m
+Author: SACHIN BHOLA <43703271+Sachinbhola@users.noreply.github.com>
+Date:   Sun May 16 16:04:29 2021 +0530
+
+    Update README.md
+
+[33mcommit cd124a73ac7d9ff68b049c035608dc1c90a94c46[m
+Author: SACHIN BHOLA <43703271+Sachinbhola@users.noreply.github.com>
+Date:   Sun May 16 15:36:54 2021 +0530
+
+    Create README.md
+
+[33mcommit b23758baf0a198beadcd2bc203c4749beaf94f6c[m
+Author: Sachinbhola <sachinbhola947@gmail.com>
+Date:   Sun May 16 13:56:49 2021 +0530
+
+    v1.1 accuracy added
+
+[33mcommit fbf2fe1c5f0c5befc92f50953c90af395d4e4c03[m
+Author: Sachinbhola <sachinbhola947@gmail.com>
+Date:   Mon May 10 18:56:17 2021 +0530
+
+    initialised
