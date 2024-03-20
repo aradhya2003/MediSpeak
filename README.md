@@ -5,10 +5,11 @@ Android app that converts a picture of medication into speech form of medicine d
 ## Screenshots
 
 <div style="display:flex">
-  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/70e41adf-18bd-4738-9e6d-ec4e80d33df9" width="200" style="margin-right: 10px;">
-  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/18663fdb-9e2f-4f88-b283-1a2f43e7eb8e" width="200" style="margin-right: 10px;">
-  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/c87dc5bb-122f-43f0-89ba-ddbd492fad06" width="200">
+  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/c3386dec-1ad7-4c1d-9a7a-994e2abdd675" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/213519c0-b382-4db5-9812-095116b7cb0e" width="200" style="margin-right: 10px;">
+  <img src="https://github.com/aradhya2003/MediSpeak/assets/83398496/37aaab76-4a53-4923-a1d6-fb7bdd43e560" width="200">
 </div>
+
 
 ## Features
 
